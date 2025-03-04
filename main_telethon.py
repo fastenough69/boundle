@@ -1,0 +1,64 @@
+from telethon import TelegramClient, events
+import asyncio
+
+# import logging
+from main import bot
+
+api_id = 27363581
+api_hash = 'bccb3f26df3a01ef18bc916f16b27c68'
+
+
+# bot = Bot('7981052344:AAESuiROMEL4tV4l29QXpBHk4Iv_fT337Ts')
+# dp = Dispatcher()
+
+semaphore = asyncio.Semaphore(3)
+
+async def new_boundle_with_limit(*args):
+    from module import new_boundle
+    async with semaphore:
+        return await new_boundle(*args)
+
+
+async def main(key):
+
+    
+    # logging.basicConfig(level=logging.INFO)
+    client = TelegramClient(f'{str(key)}', api_id=api_id, api_hash=api_hash)
+    await client.start()
+    
+    
+    # dp.include_router(router)
+    # await dp.start_polling(bot)
+    @client.on(events.NewMessage(chats=6287437487))
+    async def get_newMessage(event):
+        from module import new_boundle, async_playwright
+        from app.hendlers import user_data
+
+        try:
+            for key, value in user_data.items():
+                if value["status"]:
+                    message = event.message
+                    data = message.to_dict()
+                    entities = data.get("entities", [])
+                    
+                    links = [entity["url"] for entity in entities if entity["_"] == "MessageEntityTextUrl"]
+                    links.pop(1)
+                    async with async_playwright() as pw:
+                        chromium = pw.chromium
+                        browser = await chromium.launch(headless=False)
+                        context = await browser.new_context(proxy={"server": f"http://127.0.0.1:{user_data[key]["proxy"]}"})
+                        task = await new_boundle_with_limit(links[0], user_data[key]["paste"], context, key)
+                        if task:
+                            await bot.send_message(key, f'Бандл создан на  {links[0]}, коммент "{user_data[key]["paste"]}" отправлен.')
+                        else:
+                            await bot.send_message(key, 'Бандл не создался(((')
+
+                        await browser.close()
+
+        except Exception:
+            pass
+    await client.run_until_disconnected()
+    
+
+if __name__ == '__main__':
+    asyncio.run(main())

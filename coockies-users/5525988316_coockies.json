@@ -1,0 +1,682 @@
+[
+    {
+        "name": "taboola_session_id",
+        "value": "v2_6d426fb4c09cf2fd6499f1d86d046fa5_4e54be92-eb9f-44e2-b3b9-9dded47d7b73-tucte42882d_1732838061_1732838061_CNawjgYQm_tWGNSCz6m3MiABKAEw4QE4kaQOQIuwDkiY0tkDUKMGWABgAGjMgZ6QiM2OxDNwAYABAA",
+        "domain": ".taboola.com",
+        "path": "/poshmarkinc-sccnx/",
+        "expires": -1,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None"
+    },
+    {
+        "name": "_GRECAPTCHA",
+        "value": "09ANOXeZxVy3qvTY3Z-a11CXyKUiCnkaMyT2mZ0FJgez9dO5UmW3uLHrku0MfJEYF2sPKD6ASH0QWm-dN5RsQWwbI",
+        "domain": "www.google.com",
+        "path": "/recaptcha",
+        "expires": 1748390158.526984,
+        "httpOnly": true,
+        "secure": true,
+        "sameSite": "None"
+    },
+    {
+        "name": "ps",
+        "value": "%7B%22bid%22%3A%22674902a853ce6df7217b7f82%22%2C%22extvid%22%3A%22ext1%3Aee1acccd-eeba-4387-b7ca-89f7fbc2b642%22%7D",
+        "domain": "poshmark.com",
+        "path": "/",
+        "expires": 1767398143.504961,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "_csrf",
+        "value": "ORd_UWzYdUezMvJ_X_XYjeTy",
+        "domain": "poshmark.com",
+        "path": "/",
+        "expires": -1,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "vsegv3",
+        "value": "eyJsMDEiOiIwODEiLCJsMDIiOiIwNzciLCJsMDMiOiIwNjMiLCJsMDQiOiIwMjIiLCJsMDUiOiIxMTYiLCJsMDYiOiIwODAiLCJsMDciOiIwNjEiLCJsMDgiOiIwNjAifQ%3D%3D",
+        "domain": "poshmark.com",
+        "path": "/",
+        "expires": 1767398143.50511,
+        "httpOnly": true,
+        "secure": true,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "rt",
+        "value": "%7B%22src%22%3A%5B%7B%22rf%22%3A%22%22%2C%22lpu%22%3A%22%2Flogin%22%2C%22lpt%22%3A%22Login%22%2C%22rs%22%3Anull%2C%22ca%22%3A%222024-11-28T23%3A55%3A44.764Z%22%7D%5D%7D",
+        "domain": "poshmark.com",
+        "path": "/",
+        "expires": 1767398144.764598,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "_gcl_au",
+        "value": "1.1.878648294.1732838145",
+        "domain": ".poshmark.com",
+        "path": "/",
+        "expires": 1740614145,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "G_ENABLED_IDPS",
+        "value": "google",
+        "domain": ".poshmark.com",
+        "path": "/",
+        "expires": 1767398145.480835,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "_ga",
+        "value": "GA1.1.1364480122.1732838146",
+        "domain": ".poshmark.com",
+        "path": "/",
+        "expires": 1767398145.783131,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "__ssid",
+        "value": "b9ec54303e19ea634d05d698911ef9b",
+        "domain": ".poshmark.com",
+        "path": "/",
+        "expires": 1767398145.8827,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "_rdt_uuid",
+        "value": "1732838146420.81886e72-f963-4809-836a-7a61da7ca0eb",
+        "domain": ".poshmark.com",
+        "path": "/",
+        "expires": 1740614146,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "Strict"
+    },
+    {
+        "name": "cjConsent",
+        "value": "MHxOfDB8Tnww",
+        "domain": ".poshmark.com",
+        "path": "/",
+        "expires": 1766966205,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "cjUser",
+        "value": "adc63346-f7f0-4dd6-931c-be6ff90ecb4d",
+        "domain": ".poshmark.com",
+        "path": "/",
+        "expires": 1766966205,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "cjLiveRampLastCall",
+        "value": "2024-11-28T23:55:47.596Z",
+        "domain": ".poshmark.com",
+        "path": "/",
+        "expires": 1766966147,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "io_token_7c6a6574-f011-4c9a-abdd-9894a102ccef",
+        "value": "uOoP0cNQjldlo+nvvcxc32Zb68dFeoaC85EGIGCALQk=",
+        "domain": "mpsnare.iesnare.com",
+        "path": "/",
+        "expires": 1764374147.740287,
+        "httpOnly": true,
+        "secure": true,
+        "sameSite": "None"
+    },
+    {
+        "name": "IDE",
+        "value": "AHWqTUlaoSJZWeE8UoMfaaYTeME5dEsudJbxv7qsdeGLIavht4aiV7JVEfoLCuVi",
+        "domain": ".doubleclick.net",
+        "path": "/",
+        "expires": 1767398147.755901,
+        "httpOnly": true,
+        "secure": true,
+        "sameSite": "None"
+    },
+    {
+        "name": "_uetsid",
+        "value": "4a06d150ade411efab8ce1fd6750757e",
+        "domain": ".poshmark.com",
+        "path": "/",
+        "expires": 1732924547,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "_uetvid",
+        "value": "4a06f940ade411ef838257d919b5cd2a",
+        "domain": ".poshmark.com",
+        "path": "/",
+        "expires": 1766534147,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "MUID",
+        "value": "084B8D84381A67593EC998C139F46621",
+        "domain": ".bing.com",
+        "path": "/",
+        "expires": 1766534148.07148,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None"
+    },
+    {
+        "name": "MR",
+        "value": "0",
+        "domain": ".bat.bing.com",
+        "path": "/",
+        "expires": 1733442948.071542,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None"
+    },
+    {
+        "name": "t_gid",
+        "value": "4e54be92-eb9f-44e2-b3b9-9dded47d7b73-tucte42882d",
+        "domain": ".taboola.com",
+        "path": "/",
+        "expires": 1764374242.4994,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None"
+    },
+    {
+        "name": "t_pt_gid",
+        "value": "4e54be92-eb9f-44e2-b3b9-9dded47d7b73-tucte42882d",
+        "domain": ".taboola.com",
+        "path": "/",
+        "expires": 1764374242.499456,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None"
+    },
+    {
+        "name": "receive-cookie-deprecation",
+        "value": "1",
+        "domain": ".taboola.com",
+        "path": "/",
+        "expires": 1764374242.49948,
+        "httpOnly": true,
+        "secure": true,
+        "sameSite": "None"
+    },
+    {
+        "name": "_fbp",
+        "value": "fb.1.1732838148403.431158708338857434",
+        "domain": ".poshmark.com",
+        "path": "/",
+        "expires": 1740614203,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "fp_token_7c6a6574-f011-4c9a-abdd-9894a102ccef",
+        "value": "Fz2fPc5Si0UDVf79k4tIFBtGjbeeVfPBS+PWigB8BHY=",
+        "domain": "poshmark.com",
+        "path": "/",
+        "expires": 1764374148.405312,
+        "httpOnly": true,
+        "secure": true,
+        "sameSite": "None"
+    },
+    {
+        "name": "rlas3",
+        "value": "KOmniayKJfc8roO7Gxr375d0J9HvPEuxz3y8iGbtHpk=",
+        "domain": ".rlcdn.com",
+        "path": "/",
+        "expires": 1764374148.751863,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None"
+    },
+    {
+        "name": "ts_c",
+        "value": "vr%3D753274ce1930a5689460ccabfbe7c7dd%26vt%3D753274ce1930a5689460ccabfbe7c7dc",
+        "domain": ".paypal.com",
+        "path": "/",
+        "expires": 1764374213.813241,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None"
+    },
+    {
+        "name": "pxrc",
+        "value": "CK2FpLoGEgUI6AcQAA==",
+        "domain": ".rlcdn.com",
+        "path": "/",
+        "expires": 1738022148.751928,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None"
+    },
+    {
+        "name": "ar_debug",
+        "value": "1",
+        "domain": ".pinterest.com",
+        "path": "/",
+        "expires": 1764374205.953752,
+        "httpOnly": true,
+        "secure": true,
+        "sameSite": "None"
+    },
+    {
+        "name": "_pin_unauth",
+        "value": "dWlkPU1HVXlZVEV5WkRjdFpUSXpZaTAwTlRFM0xXRTJZMkl0TldFeU5XVTFNRGcxT0RJMQ",
+        "domain": ".poshmark.com",
+        "path": "/",
+        "expires": 1764374149,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "TDID",
+        "value": "dd7a9c39-51c2-48dc-815e-5bb31440392a",
+        "domain": ".adsrvr.org",
+        "path": "/",
+        "expires": 1764374209.328924,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None"
+    },
+    {
+        "name": "XANDR_PANID",
+        "value": "Tif3xPsnkTJeyDffwOdgWDLdaZBXuRPyPhtPZTHw7FWgwqG6RI21HMrLB5ehq3_nT0hU1oWsCCPrw8r8iVhJlVIX78PFqCGp6Iw-y7AkB6c.",
+        "domain": ".adnxs.com",
+        "path": "/",
+        "expires": 1740614152.155946,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None"
+    },
+    {
+        "name": "receive-cookie-deprecation",
+        "value": "1",
+        "domain": ".adnxs.com",
+        "path": "/",
+        "expires": 1767398152.156008,
+        "httpOnly": true,
+        "secure": true,
+        "sameSite": "None"
+    },
+    {
+        "name": "uuid2",
+        "value": "1838376397902302290",
+        "domain": ".adnxs.com",
+        "path": "/",
+        "expires": 1740614152.156026,
+        "httpOnly": true,
+        "secure": true,
+        "sameSite": "None"
+    },
+    {
+        "name": "audit_p",
+        "value": "1|kcW/t4cUCNZO5U8hpb36+8cyK2ouVKPw9AHF7awt2sAX2/C9qBBD3t+RwbIJR9TT8ZTAf2MrfvqM1KxoLazIt9i2Wk5FrGos0XY24Ec+XLtIvNx5qlCSDPbX0o88fX8SEk2g03NjyAn3X3s/c6CzT+c+R/gtbdeQF64gtd3/XepbOz6AjJtUa8ZnH3r7x5VAdeodiyl5GGjkt77VmXBK7kiCfUmSYXqD+ohH/uuQN8oOr/S07bYDcYQkZmofZQkSVSwKu1RXSJT0/fhu8/pkBO4VeIulq+4M1TRwmTZWV3Xc6UO785F0Pw==",
+        "domain": ".rubiconproject.com",
+        "path": "/",
+        "expires": 1764374152.159849,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None"
+    },
+    {
+        "name": "khaos",
+        "value": "M41Z1K5N-G-FAEI",
+        "domain": ".rubiconproject.com",
+        "path": "/",
+        "expires": 1764374152.159925,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None"
+    },
+    {
+        "name": "khaos_p",
+        "value": "M41Z1K5N-G-FAEI",
+        "domain": ".rubiconproject.com",
+        "path": "/",
+        "expires": 1764374152.159942,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None"
+    },
+    {
+        "name": "audit",
+        "value": "1|kcW/t4cUCNZO5U8hpb36+8cyK2ouVKPw9AHF7awt2sAX2/C9qBBD3t+RwbIJR9TT8ZTAf2MrfvqM1KxoLazIt9i2Wk5FrGos0XY24Ec+XLtIvNx5qlCSDPbX0o88fX8SEk2g03NjyAn3X3s/c6CzT+c+R/gtbdeQF64gtd3/XepbOz6AjJtUa8ZnH3r7x5VAdeodiyl5GGjkt77VmXBK7kiCfUmSYXqD+ohH/uuQN8oOr/S07bYDcYQkZmofZQkSVSwKu1RXSJT0/fhu8/pkBO4VeIulq+4M1TRwmTZWV3Xc6UO785F0Pw==",
+        "domain": ".rubiconproject.com",
+        "path": "/",
+        "expires": 1764374152.159958,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None"
+    },
+    {
+        "name": "jwt",
+        "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2Nlc3NfdG9rZW4iOiJOVGMxTW1Vek1ERXdZamRtWmpSbE9UZ3pNREZrTURVd2ZERTNOalF6TnpReE1UVjhNQzR5ZkRCOE5qYzBPVEF5WlRNNU5ETmtaR0pqWXpkaE9UTXpNek13ZkRCOE1Yd3dmREI4TFU1TWFITmpSMmx6VGprelFtVmZTMUY2VWtsTk9XUTRPSFZZUjFSZmExbERVV3hXWTBkdFQxOVNadyIsInVzZXJfaWQiOiI1NzUyZTMwMTBiN2ZmNGU5ODMwMWQwNTAiLCJwaG9uZV92ZXJpZmljYXRpb25fcmVxdWlyZWQiOmZhbHNlfQ.3BbYBMgKlb2e3FhrfzleJWRlP5DCfOQ78VXuhfY-PJo",
+        "domain": "poshmark.com",
+        "path": "/",
+        "expires": 1764374202.441453,
+        "httpOnly": true,
+        "secure": true,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "max_auth_exp",
+        "value": "1764374115244",
+        "domain": "poshmark.com",
+        "path": "/",
+        "expires": 1764374202.441521,
+        "httpOnly": true,
+        "secure": true,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "ui",
+        "value": "%7B%22dh%22%3A%22fina1217%22%2C%22uid%22%3A%225752e3010b7ff4e98301d050%22%2C%22hd%22%3A%22us%22%2C%22em%22%3A%22elblackw3jg%40gmx.com%22%2C%22fn%22%3A%22Delfina%2BMendoza%22%2C%22ge%22%3A%22female%22%2C%22cat%22%3A%222016-06-04T14%3A17%3A37Z%22%2C%22roles%22%3A%5B%5D%2C%22extuid%22%3A%22ext1%3A59e8abbc-5b3c-4f30-8be9-20445ad2d870%22%2C%22uit%22%3A%22https%3A%2F%2Fdi2ponv0v5otw.cloudfront.net%2Fusers%2F2024%2F11%2F28%2F14%2Fs_6748e7f43358a9c081b045fc.jpg%22%7D",
+        "domain": "poshmark.com",
+        "path": "/",
+        "expires": 1764374202.441534,
+        "httpOnly": true,
+        "secure": true,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "usegv3",
+        "value": "eyJsMDEiOiIwNzgiLCJsMDIiOiIwMTEiLCJsMDMiOiIwNTUiLCJsMDQiOiIwMTgiLCJsMDUiOiIwMTEiLCJsMDYiOiIwOTAiLCJsMDciOiIwNjUiLCJsMDgiOiIxMDAifQ%3D%3D",
+        "domain": "poshmark.com",
+        "path": "/",
+        "expires": 1764374202.441549,
+        "httpOnly": true,
+        "secure": true,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "tgnb",
+        "value": "true",
+        "domain": "poshmark.com",
+        "path": "/",
+        "expires": 1732841802.196917,
+        "httpOnly": true,
+        "secure": true,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "tgprm",
+        "value": "true",
+        "domain": "poshmark.com",
+        "path": "/",
+        "expires": 1732841802.196983,
+        "httpOnly": true,
+        "secure": true,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "tgsh",
+        "value": "true",
+        "domain": "poshmark.com",
+        "path": "/",
+        "expires": 1732841803.196996,
+        "httpOnly": true,
+        "secure": true,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "tgld",
+        "value": "false",
+        "domain": "poshmark.com",
+        "path": "/",
+        "expires": 1732841803.197005,
+        "httpOnly": true,
+        "secure": true,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "tgrbp",
+        "value": "false",
+        "domain": "poshmark.com",
+        "path": "/",
+        "expires": 1732841803.197015,
+        "httpOnly": true,
+        "secure": true,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "tgbb",
+        "value": "false",
+        "domain": "poshmark.com",
+        "path": "/",
+        "expires": 1732841803.197024,
+        "httpOnly": true,
+        "secure": true,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "tgshdp",
+        "value": "false",
+        "domain": "poshmark.com",
+        "path": "/",
+        "expires": 1732841803.197033,
+        "httpOnly": true,
+        "secure": true,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "tgms",
+        "value": "false",
+        "domain": "poshmark.com",
+        "path": "/",
+        "expires": 1732841803.197043,
+        "httpOnly": true,
+        "secure": true,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "prmex",
+        "value": "1732838116",
+        "domain": "poshmark.com",
+        "path": "/",
+        "expires": 1732841803.197052,
+        "httpOnly": true,
+        "secure": true,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "lat",
+        "value": "1732838203502",
+        "domain": "poshmark.com",
+        "path": "/",
+        "expires": -1,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "dsb",
+        "value": "0",
+        "domain": "poshmark.com",
+        "path": "/",
+        "expires": -1,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "moe_uuid",
+        "value": "54d9042c-9be7-4e37-83e5-9fd9d3b90d7c",
+        "domain": ".poshmark.com",
+        "path": "/",
+        "expires": -1,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "_dd_s",
+        "value": "rum=0&expire=1732839104501",
+        "domain": "poshmark.com",
+        "path": "/",
+        "expires": 1732839104,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Strict"
+    },
+    {
+        "name": "_ga_S34VRNNVTV",
+        "value": "GS1.1.1732838145.1.1.1732838204.1.0.0",
+        "domain": ".poshmark.com",
+        "path": "/",
+        "expires": 1767398204.810577,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "_pinterest_ct_ua",
+        "value": "\"TWc9PSZpMDBlQ0s5T280Z2t3dmpTMCs4S0U4b2ZCZFM2TlErNVpqZHNjTXF1TVlCSko0akFKRzNHdU5BQlNEOVVmRVpVTUNuRUhBbmNZRVltdFVYWnNaY3pGWE1ndTNxSEgwS0prMmprVk52Y2Jldz0md1FObXNUSWMrbjBkaytkU2lYTmRjYkdBeTNJPQ==\"",
+        "domain": ".ct.pinterest.com",
+        "path": "/",
+        "expires": 1764374205.953816,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None"
+    },
+    {
+        "name": "u_act_thr",
+        "value": "true",
+        "domain": "poshmark.com",
+        "path": "/",
+        "expires": 1732910206,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "CMID",
+        "value": "Z0kC6cAoImQAAF1kBdjyWgAA",
+        "domain": ".casalemedia.com",
+        "path": "/",
+        "expires": 1764374208.816824,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None"
+    },
+    {
+        "name": "CMPS",
+        "value": "2051",
+        "domain": ".casalemedia.com",
+        "path": "/",
+        "expires": 1740614208.516998,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None"
+    },
+    {
+        "name": "CMPRO",
+        "value": "2051",
+        "domain": ".casalemedia.com",
+        "path": "/",
+        "expires": 1740614208.816875,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None"
+    },
+    {
+        "name": "KRTBCOOKIE_377",
+        "value": "6810-dd7a9c39-51c2-48dc-815e-5bb31440392a&KRTB&22918-dd7a9c39-51c2-48dc-815e-5bb31440392a&KRTB&22926-dd7a9c39-51c2-48dc-815e-5bb31440392a&KRTB&23031-dd7a9c39-51c2-48dc-815e-5bb31440392a",
+        "domain": ".pubmatic.com",
+        "path": "/",
+        "expires": 1740614208.527421,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None"
+    },
+    {
+        "name": "PugT",
+        "value": "1732827804",
+        "domain": ".pubmatic.com",
+        "path": "/",
+        "expires": 1735430208.527473,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None"
+    },
+    {
+        "name": "tuuid",
+        "value": "94e24b1b-979b-46c7-8c1f-666bbfe98728",
+        "domain": ".bidswitch.net",
+        "path": "/",
+        "expires": 1764374209.044059,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None"
+    },
+    {
+        "name": "c",
+        "value": "1732838121",
+        "domain": ".bidswitch.net",
+        "path": "/",
+        "expires": 1764374208.638926,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None"
+    },
+    {
+        "name": "tuuid_lu",
+        "value": "1732838121",
+        "domain": ".bidswitch.net",
+        "path": "/",
+        "expires": 1764374209.044124,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None"
+    },
+    {
+        "name": "TDCPM",
+        "value": "CAESFQoGZ29vZ2xlEgsIqKvbw8CEyD0QBRIWCgdydWJpY29uEgsI5s3bw8CEyD0QBRIXCghhcHBuZXh1cxILCIDx28PAhMg9EAUSFQoGY2FzYWxlEgsIwpqa4MSEyD0QBRIYCgliaWRzd2l0Y2gSCwjwwZrgxITIPRAFEhcKCHB1Ym1hdGljEgsI8u-a4MSEyD0QBRgFIAEoAzILCPrlnI3bhMg9EAVCDyINCAESCQoFdGllcjMQAVoHYWF3NW9kdGAB",
+        "domain": ".adsrvr.org",
+        "path": "/",
+        "expires": 1764374209.328981,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None"
+    },
+    {
+        "name": "ts",
+        "value": "vreXpYrS%3D1764374126%26vteXpYrS%3D1732839926%26vr%3D753274ce1930a5689460ccabfbe7c7dd%26vt%3D753274ce1930a5689460ccabfbe7c7dc",
+        "domain": ".paypal.com",
+        "path": "/",
+        "expires": 1764374213.813165,
+        "httpOnly": true,
+        "secure": true,
+        "sameSite": "None"
+    }
+]
