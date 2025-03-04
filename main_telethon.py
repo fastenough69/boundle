@@ -4,8 +4,8 @@ import asyncio
 # import logging
 from main import bot
 
-api_id = 27363581
-api_hash = 'bccb3f26df3a01ef18bc916f16b27c68'
+api_id = 'id'
+api_hash = 'hash'
 
 
 # bot = Bot('7981052344:AAESuiROMEL4tV4l29QXpBHk4Iv_fT337Ts')
