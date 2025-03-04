@@ -8,7 +8,7 @@ api_id = 27363581
 api_hash = 'bccb3f26df3a01ef18bc916f16b27c68'
 
 
-bot = Bot('7981052344:AAESuiROMEL4tV4l29QXpBHk4Iv_fT337Ts')
+bot = Bot('botid')
 dp = Dispatcher()
 
 
